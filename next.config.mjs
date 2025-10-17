@@ -7,10 +7,7 @@ const nextConfig = {
     unoptimized: true,
   },
   reactStrictMode: true,
-  trailingSlash: true,
-  output: 'export',
-  basePath: '/ELWS',
-  assetPrefix: '/ELWS/'
+  trailingSlash: true
 }
 
 export default nextConfig
